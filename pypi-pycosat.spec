@@ -4,7 +4,7 @@
 #
 Name     : pypi-pycosat
 Version  : 0.6.3
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/c0/fd/e38d68774c0a345b0090d608a90f1fbf423970d812f7ec7aef9ac024e648/pycosat-0.6.3.zip
 Source0  : https://files.pythonhosted.org/packages/c0/fd/e38d68774c0a345b0090d608a90f1fbf423970d812f7ec7aef9ac024e648/pycosat-0.6.3.zip
 Summary  : bindings to picosat (a SAT solver)
@@ -80,7 +80,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1656385645
+export SOURCE_DATE_EPOCH=1656397009
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
