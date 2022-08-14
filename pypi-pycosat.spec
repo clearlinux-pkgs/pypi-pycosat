@@ -4,7 +4,7 @@
 #
 Name     : pypi-pycosat
 Version  : 0.6.3
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/c0/fd/e38d68774c0a345b0090d608a90f1fbf423970d812f7ec7aef9ac024e648/pycosat-0.6.3.zip
 Source0  : https://files.pythonhosted.org/packages/c0/fd/e38d68774c0a345b0090d608a90f1fbf423970d812f7ec7aef9ac024e648/pycosat-0.6.3.zip
 Summary  : bindings to picosat (a SAT solver)
