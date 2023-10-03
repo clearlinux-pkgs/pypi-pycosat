@@ -1,5 +1,5 @@
 PKG_NAME := pypi-pycosat
-URL = https://files.pythonhosted.org/packages/c0/fd/e38d68774c0a345b0090d608a90f1fbf423970d812f7ec7aef9ac024e648/pycosat-0.6.3.zip
+URL = https://files.pythonhosted.org/packages/5b/81/cf8ebf77fc4f06f680ad3ee43d0d01826f6d6054828f1cf3b42d944b82a1/pycosat-0.6.6.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
